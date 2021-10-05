@@ -1,0 +1,21 @@
+{
+  "name": "webpack-babel",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.56.1",
+    "webpack-cli": "^4.8.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "sweetalert2": "^11.1.7"
+  }
+}
